@@ -4,22 +4,44 @@
       {
           "id":"1",
           "city":"Solapur",
-          "college_name":"A G PATIL INSTITUTE OF TECHNOLOGY"
+          "college_number":"1",
+          "college_name":"A G PATIL INSTITUTE OF TECHNOLOGY",
+          "college_type":"Private"
       },
       {
           "id":"2",
           "city":"Solapur",
-          "college_name":"N. B. NAVALE SINHGAD COLLEGE OF ENGINEERING"
-      },
-       {
-          "id":"1",
-          "city":"Pune",
-          "college_name":"College of engineering Pune"
+          "college_number":"2",
+          "college_name":"Government Polytechnic, Solapur",
+          "college_type":"Government"
       },
       {
-          "id":"2",
+          "id":"3",
+          "city":"Solapur",
+          "college_number":"3",
+          "college_name":"N. B. NAVALE SINHGAD COLLEGE OF ENGINEERING",
+          "college_type":"Private"
+      },
+       {
+          "id":"4",
           "city":"Pune",
-          "college_name":"Vellore institute of technology"
+          "college_number":"1",
+          "college_name":"COEP Pune - College of Engineering",
+          "college_type":"Government"
+      },
+      {
+          "id":"5",
+          "city":"Pune",
+          "college_number":"2",
+          "college_name":"Government Polytechnic, Pune",
+          "college_type":"Government"
+      },
+      {
+          "id":"6",
+          "city":"Pune",
+          "college_number":"3",
+          "college_name":"VIT Pune - Vishwakarma Institute of Technology",
+          "college_type":"Private"
       }
 
           ]
