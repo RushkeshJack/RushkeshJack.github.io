@@ -3,11 +3,23 @@
 
       {
           "id":"1",
+          "city":"Solapur",
           "college_name":"A G PATIL INSTITUTE OF TECHNOLOGY"
       },
       {
           "id":"2",
+          "city":"Solapur",
           "college_name":"N. B. NAVALE SINHGAD COLLEGE OF ENGINEERING"
+      },
+       {
+          "id":"3",
+          "city":"Pune",
+          "college_name":"College of engineering Pune"
+      },
+      {
+          "id":"4",
+          "city":"Pune",
+          "college_name":"Vellore institute of technology"
       }
 
           ]
