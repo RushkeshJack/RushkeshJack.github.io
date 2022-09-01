@@ -5,43 +5,57 @@
           "id":"1",
           "city":"Solapur",
           "college_number":"1",
+          "college_name":"Haribhai devkaran prashala",
+          "college_type":"1-10th standard"
+      },
+       {
+          "id":"1",
+          "city":"Solapur",
+          "college_number":"1",
+          "college_name":"Haribhai devkaran prashala",
+          "college_type":"10-12th standard"
+      },
+      {
+          "id":"1",
+          "city":"Solapur",
+          "college_number":"1",
           "college_name":"A G PATIL INSTITUTE OF TECHNOLOGY",
-          "college_type":"Private"
+          "college_type":"Enginerring"
       },
       {
           "id":"2",
           "city":"Solapur",
           "college_number":"2",
           "college_name":"Government Polytechnic, Solapur",
-          "college_type":"Government"
+          "college_type":"Enginerring"
       },
       {
           "id":"3",
           "city":"Solapur",
           "college_number":"3",
           "college_name":"N. B. NAVALE SINHGAD COLLEGE OF ENGINEERING",
-          "college_type":"Private"
+          "college_type":"Enginerring"
       },
        {
           "id":"4",
           "city":"Pune",
           "college_number":"1",
           "college_name":"COEP Pune - College of Engineering",
-          "college_type":"Government"
+          "college_type":"Enginerring"
       },
       {
           "id":"5",
           "city":"Pune",
           "college_number":"2",
           "college_name":"Government Polytechnic, Pune",
-          "college_type":"Government"
+          "college_type":"Enginerring"
       },
       {
           "id":"6",
           "city":"Pune",
           "college_number":"3",
           "college_name":"VIT Pune - Vishwakarma Institute of Technology",
-          "college_type":"Private"
+          "college_type":"Enginerring"
       }
 
           ]
