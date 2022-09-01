@@ -1,0 +1,14 @@
+{
+"records":[
+
+      {
+          "id":"1",
+          "college_name":"College of engineering Pune"
+      },
+      {
+          "id":"2",
+          "college_name":"Vellore institute of technology"
+      }
+
+          ]
+}
