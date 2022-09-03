@@ -5,8 +5,9 @@
           "id":"1",
           "city":"Solapur",
           "college_number":"1",
-          "college_name":"Haribhai devkaran prashala",
-          "college_type":"1-10th standard"
+          "college_name":"Walchand college of engineering",
+          "location_link":"https://www.google.com/maps/place/Walchand+Institute+Of+Technology+(+W.I.T+)/@17.6686056,75.9206239,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc5da42cf5b6333:0xce43e421c82afed7!8m2!3d17.6686056!4d75.9228126",
+          "college_type":"Engineering"
       },
        {
           "id":"1",
