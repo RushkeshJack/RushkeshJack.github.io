@@ -8,55 +8,6 @@
           "college_name":"Walchand college of engineering",
           "location_link":"https://www.google.com/maps/place/Walchand+Institute+Of+Technology+(+W.I.T+)/@17.6686056,75.9206239,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc5da42cf5b6333:0xce43e421c82afed7!8m2!3d17.6686056!4d75.9228126",
           "college_type":"Engineering"
-      },
-       {
-          "id":"1",
-          "city":"Solapur",
-          "college_number":"1",
-          "college_name":"Haribhai devkaran prashala",
-          "college_type":"11-12th standard"
-      },
-      {
-          "id":"1",
-          "city":"Solapur",
-          "college_number":"1",
-          "college_name":"A G PATIL INSTITUTE OF TECHNOLOGY",
-          "college_type":"Engineering"
-      },
-      {
-          "id":"2",
-          "city":"Solapur",
-          "college_number":"2",
-          "college_name":"Government Polytechnic, Solapur",
-          "college_type":"Engineering"
-      },
-      {
-          "id":"3",
-          "city":"Solapur",
-          "college_number":"3",
-          "college_name":"N. B. NAVALE SINHGAD COLLEGE OF ENGINEERING",
-          "college_type":"Engineering"
-      },
-       {
-          "id":"4",
-          "city":"Pune",
-          "college_number":"1",
-          "college_name":"COEP Pune - College of Engineering",
-          "college_type":"Engineering"
-      },
-      {
-          "id":"5",
-          "city":"Pune",
-          "college_number":"2",
-          "college_name":"Government Polytechnic, Pune",
-          "college_type":"Engineering"
-      },
-      {
-          "id":"6",
-          "city":"Pune",
-          "college_number":"3",
-          "college_name":"VIT Pune - Vishwakarma Institute of Technology",
-          "college_type":"Engineering"
       }
 
           ]
